@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
+<div class="row">
         <table cols="" border ="0">
             <tr>
                 <th>ID</th>
@@ -26,5 +15,6 @@ and open the template in the editor.
             </tr>
             {/quotes}
         </table>
-    </body>
-</html>
+        
+        <a href='/admin/add'>Add a new quotation</a>
+</div>
